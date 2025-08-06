@@ -2,3 +2,4 @@ test
 /var
 /temp/temp*
 /*.txt
+.env
